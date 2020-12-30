@@ -1,6 +1,7 @@
 # DeepReverb
 
 Deep Neural Network Classification of Reverberant Environments with AudioSet
+
 Paper: https://github.com/carlmoore256/DeepReverb/raw/final-project/ASC-with-deep-learning.pdf
 
 A simple CNN for acoustic scene classification, using MFCCs to identify 7 different acoustic categories labeled in https://research.google.com/audioset/
